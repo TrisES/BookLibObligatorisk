@@ -10,5 +10,5 @@ I forhold til den opgaven, så er det mest interessant at kigge på disse klasse
 - Book Model (https://github.com/TrisES/BookLibObligatorisk/blob/master/BookLibObligatorisk/Models/Book.cs)
 - Generisk Base Repo (https://github.com/TrisES/BookLibObligatorisk/blob/master/BookLibObligatorisk/Base/RepositoryBaseList.cs)
 - Book Repo (https://github.com/TrisES/BookLibObligatorisk/blob/master/BookLibObligatorisk/BookRepositoryList.cs)
-- Book Model Tests ()
+- Book Model Tests (https://github.com/TrisES/BookLibObligatorisk/blob/master/BookLibObligatoriskTests/Models/BookTests.cs)
 - Book Repo Tests (https://github.com/TrisES/BookLibObligatorisk/blob/master/BookLibObligatoriskTests/BookRepositoryListTests.cs)
