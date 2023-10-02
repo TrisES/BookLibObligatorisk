@@ -3,7 +3,7 @@
 ## Noter
 Modelklasse og tilhørende repository og tests.
 
-Har lavet generiske interfaces og baseklasser, hvilket kan virke lidt overkill når der bare er en modelklasse og et repository. 
+Har lavet generiske interfaces og baseklasser, hvilket kan virke lidt overkill når det bare var en modelklasse og et repository som skulle laves. 
 Dog var det lærerigt(som brush up), sjovt og kan forhåbentligt genbruges i fremtiden.
 
 I forhold til opgaven, så er det mest interessant at kigge på disse klasser:
