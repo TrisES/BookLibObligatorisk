@@ -1,4 +1,5 @@
-# BookLibObligatorisk (Oktober 2023, obligatorisk opgave 1+2)
+# BookLibObligatorisk
+Oktober 2023, obligatorisk opgave 1+2.
 
 ## Noter
 Modelklasse og tilhørende repository og tests.
